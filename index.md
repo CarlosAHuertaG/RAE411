@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Telecommunication Software Projects
 
-You can use the [editor on GitHub](https://github.com/CarlosAHuertaG/RAE411/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Student: Carlos Alejandro Huerta García
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All projects done during spring semster 2019
+
+# Week 1
 
 ### Markdown
 
