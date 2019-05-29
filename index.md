@@ -4,7 +4,66 @@ Student: Carlos Alejandro Huerta García
 
 All projects done during spring semster 2019
 
-# Week 1
+### Week 1
+
+Introduction to unix shell
+
+### Week 2
+
+Elementary satistics in shell
+
+### Week 3
+
+Secure terminal conection to a remote machine (ssh)
+
+### Week 4
+
+Homework_ Plotting vectors in R and Python
+
+### Week 5
+
+
+
+### Week 6
+
+Midterm exam: Recreating vector and calculating statistics
+
+### Week 7
+
+Microproject: Exponential matrix
+
+### Week 8
+
+
+
+### Week 9
+### Week 10
+
+Latex coding with overleaf platform
+
+### Week 11
+
+Microproject 2: Ping statistics
+
+### Week 12
+
+
+
+### Week 13
+
+Exponential matrix and semilogarithmic plot
+
+### Week 14
+
+Python server
+
+### Week 15
+
+Starting github page
+
+### Week 16
+
+
 
 ### Markdown
 
