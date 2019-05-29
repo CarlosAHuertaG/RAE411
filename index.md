@@ -8,17 +8,25 @@ All projects done during spring semster 2019
 
 Introduction to unix shell
 
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week1.git"> Week1_Work </a>
+
 ### Week 2
 
 Elementary satistics in shell
+
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week2.git"> Week1_Work </a>
 
 ### Week 3
 
 Secure terminal conection to a remote machine (ssh)
 
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week3.git"> Week1_Work </a>
+
 ### Week 4
 
 Homework_ Plotting vectors in R and Python
+
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week4.git"> Week1_Work </a>
 
 ### Week 5
 
@@ -60,6 +68,7 @@ Python server
 ### Week 15
 
 Starting github page
+
 
 ### Week 16
 
