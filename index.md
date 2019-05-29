@@ -8,25 +8,25 @@ All projects done during spring semster 2019
 
 Introduction to unix shell
 
-<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week1.git"> Week1_Work </a>
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week1/blob/master/Shell_Terminal%20history_1.txt"> Week1_Work </a>
 
 ### Week 2
 
 Elementary satistics in shell
 
-<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week2.git"> Week1_Work </a>
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week2/blob/master/Shell_Terminal%20history_2.txt"> Week2_Work </a>
 
 ### Week 3
 
 Secure terminal conection to a remote machine (ssh)
 
-<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week3.git"> Week1_Work </a>
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week3/blob/master/Shell_Terminal%20history_3.txt"> Week3_Work </a>
 
 ### Week 4
 
 Homework_ Plotting vectors in R and Python
 
-<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week4.git"> Week1_Work </a>
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week4/blob/master/Homework%20%232_Carlos%20Huerta.pdf"> Week4_Work </a>
 
 ### Week 5
 
@@ -36,22 +36,36 @@ Homework_ Plotting vectors in R and Python
 
 Midterm exam: Recreating vector and calculating statistics
 
+<img src="file:///media/carlos/DATA/Linux_Share/Telecommunication%20software/RAE411/Week_6/index.png" width="800" align="middle">
+
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week6/blob/master/Mid%20Term%20Exam%201_Carlos%20Huerta.pdf"> Midterm exam </a>
+
+
 ### Week 7
 
 Microproject: Exponential matrix
 
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week7"> Microproject 1 </a>
+
 ### Week 8
 
 
-
 ### Week 9
+
+
 ### Week 10
 
 Latex coding with overleaf platform
 
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week10/blob/master/Overleaf_Latex_code.txt"> Document's code </a>
+
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week10/blob/master/411_01.pdf"> Created document </a>
+
 ### Week 11
 
 Microproject 2: Ping statistics
+
+<a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week11"> Microproject 2 </a>
 
 ### Week 12
 
@@ -61,47 +75,22 @@ Microproject 2: Ping statistics
 
 Exponential matrix and semilogarithmic plot
 
+<a href="https://github.com/CarlosAHuertaG/ClassWorkWeek13"> Week13_Work </a>
+
 ### Week 14
 
 Python server
+
+<a href="https://github.com/CarlosAHuertaG/411-W14"> Week14_Work </a>
 
 ### Week 15
 
 Starting github page
 
+<img src="file:///home/carlos/Pictures/Screenshot%20from%202019-05-29%2013-23-17.png" width="800" align="middle">
+
+<a href="https://carlosahuertag.github.io/RAE411/"> Github Page </a>
+
 
 ### Week 16
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlosAHuertaG/RAE411/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
