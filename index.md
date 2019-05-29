@@ -67,10 +67,6 @@ Microproject 2: Ping statistics
 
 <a href="https://github.com/CarlosAHuertaG/Telecommunication-Software_Week11"> Microproject 2 </a>
 
-### Week 12
-
-
-
 ### Week 13
 
 Exponential matrix and semilogarithmic plot
